@@ -1,0 +1,10 @@
+.card-container{
+    border: 2px solid purple;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.card-container img{
+    width: 200px;
+    border-radius: 10px;
+}
